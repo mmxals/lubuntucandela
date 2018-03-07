@@ -11,7 +11,7 @@ class browser(QtGui.QWidget):
         QtGui.QMainWindow.__init__(self)
 
         self.web = QWebView()
-        self.web.load(QUrl("http://ateneucandela.info/presentacio/index.html"))
+        self.web.load(QUrl("http://www.ateneucandela.info/presentacio/index.html"))
         self.initUI()
 
     def initUI(self):
