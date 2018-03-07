@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Candela Show
+Comment=
+Exec=/usr/local/bin/candela_show.py
+Icon=/usr/local/share/logo_candela.png
+Path=
+Terminal=false
+StartupNotify=false
