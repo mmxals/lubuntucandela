@@ -1,3 +1,6 @@
+#!/usr/bin/python
+#!python
+
 from PyQt5.QtCore import QUrl
 from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt5.QtWebKitWidgets import QWebView 
