@@ -1,5 +1,5 @@
 # About 
-Scritpts amb perfils d'instal·lació de Lubuntu amb lxqt 17.10 per a pc's del centre social Ateneu Candela
+Scripts amb perfils d'instal·lació de Lubuntu amb lxqt 17.10 per a pc's del centre social Ateneu Candela
 
 # Install
 Get-install Lubutnu 17.10
