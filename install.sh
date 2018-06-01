@@ -1,4 +1,5 @@
 #!/bin/bash
+echo -e "user-session=QLubuntu\n" >> /etc/lightdm/lightdm.conf.d/50-convidats.conf #use LxQT Lubuntu desktop guest user
 apt install python-pyqt5 python-pyqt5.qtwebkit #install requeriments candela_show.py
 cp candela_show.py /usr/local/bin/candela_show.py #script candela slideshow
 cp logo_candela.png /usr/local/share/logo_candela.png #icon script candela slideshow
